@@ -1,0 +1,27 @@
+.center {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 1100px;
+}
+
+.centerpict {
+    text-align: center;
+}
+
+.button {
+    color: rgb(173, 23, 23);
+    font-size: 36px;
+    font-weight: bold;
+}
+
+button {
+    background-color: rgb(93, 193, 35);
+}
+
+.buttonsize {
+    height: 100px;
+    width: 400px;
+}
